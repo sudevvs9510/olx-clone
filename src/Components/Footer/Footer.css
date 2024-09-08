@@ -1,0 +1,47 @@
+.footerParentDiv {
+  width: 100vw;
+  align-items: center;
+}
+
+
+.footerParentDiv .content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #ebeeef;
+  padding: 4px;
+}
+
+.footerParentDiv .content .heading {
+  font-size: 24px;
+  font-weight: bolder;
+  margin-left: 10%;
+}
+
+.footerParentDiv .footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background: #002f34;
+  color: whitesmoke;
+}
+
+.footerParentDiv .footer p {
+  margin: 0;
+}
+
+
+.sectionFooter {
+  margin-left: 5%;
+  margin-top: 1%;
+}
+
+.sectionFooter2 {
+  margin-right: 5%;
+}
+
+
+ul {
+  list-style: none;
+}
